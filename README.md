@@ -37,12 +37,6 @@ The platform aims to simplify grocery shopping through an intuitive interface an
 
 Add screenshots of your application here to showcase its interface.
 
-```md
-![Home Page](screenshots/home.png)
-![Products Page](screenshots/products.png)
-![Shopping Cart](screenshots/cart.png)
-![Admin Dashboard](screenshots/admin.png)
-```
 
 ---
 
@@ -124,41 +118,7 @@ Open your browser and visit:
 
 ---
 
-## 📁 Project Structure
 
-```text
-FoodMart/
-│
-├── app/
-│   ├── Http/
-│   ├── Models/
-│   └── Providers/
-│
-├── bootstrap/
-├── config/
-├── database/
-│   ├── migrations/
-│   └── seeders/
-│
-├── public/
-├── resources/
-│   ├── css/
-│   ├── js/
-│   └── views/
-│
-├── routes/
-│   ├── web.php
-│   └── api.php
-│
-├── storage/
-├── tests/
-├── .env.example
-├── artisan
-├── composer.json
-└── README.md
-```
-
----
 
 ## 🔐 Security
 
@@ -181,7 +141,7 @@ FoodMart/
 
 ## 👨‍💻 Developer
 
-**Developed by: Eng. Ahmed Shtewy**
+**Developed by: Karim (Denzy)**
 
 ---
 
